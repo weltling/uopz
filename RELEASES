@@ -1,0 +1,14 @@
+Version: 2.0.7
+Date: 2015-03-04 13:00:00
+Stability: stable
+
+notes: 
+  fix bug in overriding methods in classes loaded prior to override
+  add ability to send object from ZEND_NEW handler
+  send exit parameter to overload function
+  fix bug in handling exit status code when overloading disabled
+  set exit status code when overloading enabled from return value
+ 
+
+
+

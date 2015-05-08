@@ -1,0 +1,16 @@
+{
+    "name": "weltling/uopz",
+    "version": "2.0.7",
+    "type": "extension",
+    "stability": "stable",
+    "license": [
+        "PHP License"
+    ],
+    "authors": [
+        {
+            "name": "Joe Watkins",
+            "email": "pthreads@pthreads.org"
+        }
+    ],
+    "description": "User Operations for Zend"
+}
